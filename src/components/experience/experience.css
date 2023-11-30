@@ -41,11 +41,13 @@ section#experience {
     gap: 1rem;
 }
 
+
+
 .experience__details-icon {
     margin-top: 6px;
     color: var(--color-primary);
-}
 
+}
 
 
 

@@ -23,10 +23,10 @@ const Experience = () => {
                         </article>
 
                         <article className='experience__details'>
-                            < IoCheckmarkCircleOutline />
+                            < IoCheckmarkCircleOutline className='experience__details-icon' />
                             <div>
-                                <h4>CSS</h4>
-                                <small className='text-light'>Intermediate</small>
+                                <h4>CSS </h4>
+                                <small className='text-light'>Experienced</small>
                             </div>
                         </article>
 
@@ -121,7 +121,7 @@ const Experience = () => {
                             < IoCheckmarkCircleOutline className='experience__details-icon' />
                             <div>
                                 <h4>Flask</h4>
-                                <small className='text-light'>Experienced</small>
+                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
 
@@ -145,6 +145,13 @@ const Experience = () => {
                             < IoCheckmarkCircleOutline className='experience__details-icon' />
                             <div>
                                 <h4>SSRS Reports </h4>
+                                <small className='text-light'>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            < IoCheckmarkCircleOutline className='experience__details-icon' />
+                            <div>
+                                <h4>Microsoft Dynamics 365 F&O </h4>
                                 <small className='text-light'>Experienced</small>
                             </div>
                         </article>

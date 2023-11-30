@@ -94,6 +94,11 @@ section#about {
     }
 }
 
+.p__about-me {
+
+    text-align: justify;
+}
+
 /*============= MEDIA QUERIES (small devices as phone)============= */
 
 @media screen and (max-width:600px) {
