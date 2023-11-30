@@ -29,7 +29,7 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Application with Sanctum packet for Auth the users using API with Laravel',
+        title: 'App with Sanctum packet for Auth using API with Laravel',
         github: 'https://github.com/krissgoshevski/API-Sanctum-packet-Laravel',
         // demo: 'demo',
         skills: [<FaHtml5 />, <FaLaravel />, <SiMysql />],
@@ -37,7 +37,7 @@ const data = [
     {
         id: 2,
         image: IMG2,
-        title: 'Application with CRUD Operations using API with Laravel and AJAX with jQuery',
+        title: 'App with CRUD Operations using API with Laravel, Ajax with jQuery',
         github: 'https://github.com/krissgoshevski/API-AJAX-CRUD-LARAVEL',
         // demo: 'demo',
         skills: [<FaHtml5 />, <SiJquery />, <FaJs />, <FaLaravel />, <SiMysql />],
@@ -45,7 +45,7 @@ const data = [
     {
         id: 3,
         image: IMG3,
-        title: 'Application with Admin-Panel/Dashboard using Laravel',
+        title: 'App with Admin-Panel/Dashboard using Laravel',
         github: 'https://github.com/krissgoshevski/Admin-Panel-Dashboard-in-Laravel',
         // demo: 'demo',
         skills: [<FaHtml5 />, <FaCss3 />, <FaBootstrap />, <FaJs />, <SiJquery />, <FaLaravel />, <SiMysql />],
@@ -69,7 +69,7 @@ const data = [
     {
         id: 6,
         image: IMG6,
-        title: 'Application with RESTAPI for CRUD Op using commands, cronJobs with Laravel',
+        title: 'App with RESTAPI using commands and cronJobs',
         github: 'https://github.com/krissgoshevski/Apps-with-RESTAPI-Commands-CronJobs-using-Laravel',
         // demo: '',
         skills: [<FaHtml5 />, <FaJs />, <FaLaravel />, <SiMysql />],
@@ -77,7 +77,7 @@ const data = [
     {
         id: 7,
         image: IMG7,
-        title: 'Applicaiton with API for Students and Instructors using Laravel',
+        title: 'App with API for Students and Instructors using Laravel',
         github: 'https://github.com/krissgoshevski/App-with-API-for-Students-Instructors-using-Laravel',
         // demo: 'demo',
         skills: [<FaHtml5 />, <FaLaravel />, <SiMysql />],
@@ -93,7 +93,7 @@ const data = [
     {
         id: 9,
         image: IMG9,
-        title: 'Project - managing companies and employees working in each one in Laravel',
+        title: 'Project - managing companies and employees in Laravel',
         github: 'https://github.com/krissgoshevski/-Project-for-managing-companies-and-the-employees-working-in-each-one-with-Laravel',
         // demo: 'demo',
         skills: [<FaHtml5 />, <FaLaravel />, <SiMysql />],
@@ -101,7 +101,7 @@ const data = [
     {
         id: 10,
         image: IMG10,
-        title: 'Movie Application with Eloquent relationships - ORM using Laravel PHP framework',
+        title: 'Movie Application with Eloquent ORM using Laravel ',
         github: 'https://github.com/krissgoshevski/Movie-App-Eloquent-Laravel',
         // demo: 'demo',
         skills: [<FaHtml5 />, <FaCss3 />, <SiJquery />, <FaJs />, <FaLaravel />, <SiMysql />],
