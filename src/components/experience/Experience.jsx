@@ -41,7 +41,7 @@ const Experience = () => {
                         <article className='experience__details'>
                             < IoCheckmarkCircleOutline className='experience__details-icon' />
                             <div>
-                                <h4>Blade template</h4>
+                                <h4>Blade</h4>
                                 <small className='text-light'>Experienced</small>
 
                             </div>
@@ -151,7 +151,7 @@ const Experience = () => {
                         <article className='experience__details'>
                             < IoCheckmarkCircleOutline className='experience__details-icon' />
                             <div>
-                                <h4>Microsoft Dynamics 365 F&O </h4>
+                                <h4>Dynamics 365 </h4>
                                 <small className='text-light'>Experienced</small>
                             </div>
                         </article>
