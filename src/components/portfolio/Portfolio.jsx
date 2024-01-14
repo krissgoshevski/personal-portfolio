@@ -2,8 +2,8 @@
 import React from 'react'
 import './portfolio.css';
 
-import { FaReact, FaLaravel, FaJs, FaPhp, FaHtml5, FaCss3, FaBootstrap, FaDatabase } from 'react-icons/fa';
-import { SiMysql } from "react-icons/si";
+import { FaReact, FaLaravel, FaJs, FaPhp, FaHtml5, FaCss3, FaBootstrap, FaDatabase, FaFlask, FaPython } from 'react-icons/fa';
+import { SiMysql, SiPython } from "react-icons/si";
 import { SiJquery } from "react-icons/si";
 
 import IMG1 from '../../assets/portfolio-images/IMG1.jpeg'
@@ -25,7 +25,35 @@ import IMG15 from '../../assets/portfolio-images/IMG15.png'
 
 
 
+
 const data = [
+
+
+
+    {
+        id: 17,
+        image: IMG9,
+        title: 'React Vite + Laravel FullStack Application with authentication',
+        github: 'https://github.com/krissgoshevski/React-Vite-Laravel-FullStack-Application',
+        // demo: 'demo',
+        skills: [<FaHtml5 />, <SiMysql />, <FaReact />, <FaLaravel />],
+    },
+    {
+        id: 16,
+        image: IMG14,
+        title: 'FullStack app Authentication using React and PythonFlask',
+        github: 'https://github.com/krissgoshevski/FullStack-app-Authentication-using-React-and-Flask',
+        // demo: 'demo',
+        skills: [<FaHtml5 />, <SiMysql />, <FaReact />, <FaFlask />, <SiPython />],
+    },
+    {
+        id: 18,
+        image: IMG12,
+        title: 'Python Flask RESTFULL API Application',
+        github: 'https://github.com/krissgoshevski/Python-Flask-API-App',
+        // demo: 'demo',
+        skills: [<FaHtml5 />, <SiMysql />, <SiPython />],
+    },
     {
         id: 1,
         image: IMG1,
