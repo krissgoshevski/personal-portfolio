@@ -1,5 +1,5 @@
 import React from 'react'
-import MyCV from '../../assets/Resume_Kristijan_Goshevski.pdf'
+import MyCV from '../../assets/cv_kristijan_goshevski.pdf'
 
 
 
