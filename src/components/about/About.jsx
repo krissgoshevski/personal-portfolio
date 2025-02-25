@@ -36,7 +36,7 @@ const About = () => {
                         <article className='about__card'>
                             < FaAward className='about__icon' />
                             <h5>Experience</h5>
-                            <small>2+ Years working</small>
+                            <small>3+ Years working</small>
                         </article>
                         <article className='about__card'>
                             < ImUsers className='about__icon' />
@@ -51,11 +51,12 @@ const About = () => {
                     </div>
 
                     <p className='p__about-me'>
-                        I am 24 years old, a proud graduate of the University of Goce Delchev in Stip, Macedonia. With a four-year degree in Computer Science and Engineering, I embarked on my professional journey as a freelancer. My expertise lies in PHP and Laravel development, crafting web applications and websites.
-                        I have contributed to diverse projects, employing PHP alongside the Laravel framework, and utilizing databases such as MySQL and MSSQL for backend development. On the frontend, I'm well-versed in HTML, CSS, Bootstrap, JavaScript, jQuery, and ReactJs.
-                        While some of my creations are showcased in my portfolio below, please note that client projects, prioritizing security, are not publicly available. Additionally, I served as a Software Developer at Axapta Masters, where I played a pivotal role in the Microsoft Dynamics 365 system, leveraging x++ and C# languages with an MSSQL database.
-                        My responsibilities encompassed SSRS Reports, CRUD Operations, Jobs, BatchJobs, API calls, RESTAPI, and more.
-                        With an unwavering commitment to success, I am dedicated to continuous growth.
+I am a 25-year-old graduate of the University of Goce Delchev in Stip, Macedonia, with a Bachelor's degree in Computer Science and Engineering. My professional journey began as a freelancer, where I honed my expertise in PHP and Laravel development, crafting dynamic web applications and websites.
+Throughout my career, I have worked extensively with the Laravel framework, utilizing it alongside databases such as MySQL, PostgreSQL, and MSSQL for backend development. On the frontend, I am proficient in HTML, CSS, Bootstrap, JavaScript, jQuery, and ReactJs, enabling me to create well-rounded and responsive user interfaces.
+In addition to client projects, which are kept private for security reasons, I have contributed to several open-source initiatives and have an online portfolio showcasing my work. I also served as a Software Developer at Axapta Masters, where I played a key role in the development and optimization of the Microsoft Dynamics 365 system. In this role, I worked with x++ and C#, leveraging MSSQL databases for complex tasks such as SSRS Reports, CRUD operations, Jobs, BatchJobs, and API integrations using REST API.
+Currently, I hold the position of Software Engineer at Neotel, where I work on server and application management, utilizing Nginx and Apache for efficient web server configuration and optimization. I also manage backend applications developed with PHP and Laravel, and handle Linux OS environments, ensuring seamless deployment and operation of services.
+Recently, I've expanded my skill set to include advanced Laravel concepts such as Queues with Horizon and Supervisor using Redis, creating both static and dynamic queries, as well as PostgreSQL stored procedures, triggers, transactions and more. This knowledge allows me to create highly efficient and scalable applications capable of handling complex, real-time processes.
+My commitment to continuous learning drives me to stay at the forefront of technology, always seeking new challenges and opportunities to enhance my development skills.
                     </p>
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
 
